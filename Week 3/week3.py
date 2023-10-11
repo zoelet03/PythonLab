@@ -28,7 +28,7 @@ print("Your lowest grade was:", (min(grades)))
 print("Your highest grade was:", (max(grades)))
 
 print("Your grade average is:", (sum(grades)/5))
-""""""
+"""
 
 
 
