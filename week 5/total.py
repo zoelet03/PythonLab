@@ -7,6 +7,9 @@ while count > 1:
     total += int(sys.argv[count])
     print("count number: ", count)
 
+    if x == 0:
+        print("No arguments were provided")
+
 avg = total/x
 
 print(f"Total is, {total}")
