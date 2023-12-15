@@ -12,6 +12,7 @@ def count_case_letters(s):
 
 # Test the function with a short program
 input_string = input("Enter a string: ")
+
 uppercase_count, lowercase_count = count_case_letters(input_string)
 
 print(f"Uppercase letters: {uppercase_count}")
